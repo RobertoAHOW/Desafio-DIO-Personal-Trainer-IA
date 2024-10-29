@@ -79,9 +79,9 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
+| <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
+| <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
+| <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
 - **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
@@ -95,11 +95,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
-| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
-| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
-| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
-| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
+| <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
+| <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
+| <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
+| <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
+| <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
 
 ---
 
