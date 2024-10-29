@@ -112,7 +112,7 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
-## 🍜 Alimentação antes e após os treinos 🍶
+## 🍜 Alimentação antes e após os treinos
 
 Teremos dois momentos de alimentação antes do treino e após o treino:
 
