@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300px" src=".github/assets/logo_2.png">
+    <img width="300px" src="Desafio-DIO-Personal-Trainer-IA/assets/logo_2.png">
 </p>
 
 <p align="center">
