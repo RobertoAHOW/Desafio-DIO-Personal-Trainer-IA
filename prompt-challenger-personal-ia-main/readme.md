@@ -24,6 +24,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
+- [🍜 Alimentação antes e após os treinos](#️-🍜 Alimentação-antes-e-após-os-treinos)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
 
