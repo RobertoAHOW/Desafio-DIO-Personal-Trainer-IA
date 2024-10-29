@@ -48,21 +48,21 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/ectomorph.jpg" width="50%" height="50%">
+      <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/ectomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Ectomorfo</strong></td>
     <td>Corpo mais magro, difícil ganhar peso e massa muscular.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/mesomorph.jpg" width="50%" height="50%">
+      <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/mesomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Mesomorfo</strong></td>
     <td>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/endmorph.jpg" width="50%" height="50%">
+      <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/endmorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Endomorfo</strong></td>
     <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso.</td>
@@ -124,14 +124,14 @@ Teremos dois momentos de alimentação antes do treino e após o treino:
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/prétreino.png" width="50%" height="50%">
+      <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/pr%C3%A9treino.png" width="50%" height="50%">
     </td>
     <td><strong>Pré Treino</strong></td>
     <td>alimentação antes do treino para aumentar o foco e a concentração, e melhorar o desempenho físico e mental.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/póstreino.png" width="50%" height="50%">
+      <img src="https://github.com/RobertoAHOW/Desafio-DIO-Personal-Trainer-IA/blob/main/assets/p%C3%B3streino.png" width="50%" height="50%">
     </td>
     <td><strong>Pós Treino</strong></td>
     <td>Após a prática de exercícios físicos, uma boa alimentação ajuda o corpo no processos de recuperação e adaptação muscular.</td>
